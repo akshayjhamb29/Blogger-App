@@ -1,0 +1,6 @@
+1.open frontend/microblog folder in visual code.Install latest angular
+2. run ng serve to run frontend
+3.open backend/microblog run backend.Install nuget Packages.
+4. run database script in sql.
+5. change connection string in backend.
+6.run backend
